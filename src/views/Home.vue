@@ -37,12 +37,12 @@ export default {
 
   }
   .instruction{
-    font-size: 15px;
+   
     padding: 5px;
   }
 
   .title{
-    font-size: 30px;
+    font-size: 32px;
     font-weight: bold;
   }
 }
