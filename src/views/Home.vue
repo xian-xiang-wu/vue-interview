@@ -37,7 +37,7 @@ export default {
 
   }
   .instruction{
-    font-size: 15px;
+    font-size: 18px;
     padding: 5px;
   }
 
