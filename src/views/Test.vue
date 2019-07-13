@@ -61,7 +61,7 @@ export default {
     margin-bottom: 10px;
     background-color: blue;
     padding: 10px;
-    font-size: 16px;
+    font-size: 15px;
     color: white;
     width: 100%;
   }
